@@ -1,0 +1,13 @@
+# venv
+venv/
+.venv
+
+# python cache
+*.pyc
+__pycache__/
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# mypy
+.mypy_cache/
